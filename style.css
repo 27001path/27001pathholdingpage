@@ -28,6 +28,11 @@ h1 {
   color: #0070C0;
 }
 
+p {
+  color: #777;
+}
+
+
 .contact-form input,
 .contact-form textarea {
   width: 100%;
